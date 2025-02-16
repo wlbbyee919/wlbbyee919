@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm wlbbyee919
 
-<!--
-**wlbbyee919/wlbbyee919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏓 📚 🏸 🚵 Addicted to startup culture 🏓 📚 🏸 🚵
 
-Here are some ideas to get you started:
+## About Me
+🚣 🏏 Innovating in the field of cloud computing 🚣 🏏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚵 🎬 A fan of content creation 🚵 🎬
+
+### Fun Facts
+🎯 🏸 🎽 Enthusiastic about agile methodology 🎯 🏸 🎽
+
+---
+🎽 ✨ 🛹 🏏 🎳 Thanks for visiting my profile! 🏑 🎺 🏊 🎽 🎤
